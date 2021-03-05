@@ -1,3 +1,3 @@
-# MAinHeader
-## descriotion
+# MainHeader
+## Some description
 some text
